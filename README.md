@@ -5,8 +5,9 @@ This is a program for tracking your employees, roles, and departments. This is u
 Add Role, Add Department, and Update Employee.
 
 ## Installation
-1. After you install it, you will have to run "npm install" to install all the packages to run it.
-2. To start the program, you need to run "npm start" and it will start up and prompt you the choices.
+1. After you install it, you will have to cd into the Develop folder.
+2. Run "npm install" to install all the packages needed to run the program.
+3. To start the program, you need to run "npm start" and it will start up and prompt you with the choices.
 
 ## Video Demonstration
 https://www.youtube.com/watch?v=or-8bdIP6yo
